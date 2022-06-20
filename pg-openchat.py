@@ -1,4 +1,4 @@
-# https://coincidence24.tistory.com/20
+# 딕셔너리 관련 개념 공부 : https://coincidence24.tistory.com/20
 
 def solution(record):
     answer = []
