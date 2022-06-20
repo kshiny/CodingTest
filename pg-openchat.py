@@ -1,3 +1,5 @@
+# https://coincidence24.tistory.com/20
+
 def solution(record):
     answer = []
     Map = {}
